@@ -1,4 +1,4 @@
-# Project-Machine_Learning-
+# Project-Machine_Learning_Sentimental_Analysis
 This project is based on machine learning where we find key words from a comment and based on that we guess the type on comment that has been commented.
 
 "Sentimental Analysis on Movie Reviews"
